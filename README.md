@@ -1,4 +1,4 @@
-"# Weight Room Flooring Project
+# Weight Room Flooring Project
 
 A comprehensive planning and research project for expanding rubber mat coverage in a home weight room while optimizing layout, cost, and material compatibility.
 
